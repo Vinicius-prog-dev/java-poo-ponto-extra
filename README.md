@@ -121,7 +121,7 @@ java TestaFrota
 ## 👩‍💻 Autor
 
 **Vinicius**
-[GitHub](https://github.com/SEU-USUARIO) · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
+· [LinkedIn](www.linkedin.com/in/vinicius-galoa-fonseca-santos-9b3599240)
 
 ---
 
