@@ -118,9 +118,9 @@ java TestaFrota
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
-**Carla**
+**Vinicius**
 [GitHub](https://github.com/SEU-USUARIO) · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
 
 ---
